@@ -1,0 +1,38 @@
+https://developers.facebook.com/docs/facebook-login/manually-build-a-login-flow#checktoken 
+https://developers.facebook.com/docs/facebook-login/access-tokens
+
+https://developers.facebook.com/docs/facebook-login/permissions/#reference-manage_pages
+https://developers.facebook.com/docs/facebook-login/access-tokens/refreshing
+https://developers.facebook.com/docs/facebook-login/access-tokens
+https://developers.facebook.com/docs/facebook-login/access-tokens/debugging-and-error-handling
+https://developers.facebook.com/docs/graph-api/using-graph-api
+https://developers.facebook.com/docs/graph-api/reference/page
+https://translate.googleusercontent.com/translate_c?depth=1&hl=es&prev=search&rurl=translate.google.com&sl=en&sp=nmt4&u=https://developers.facebook.com/docs/facebook-login/access-tokens/debugging-and-error-handling&xid=17259,15700022,15700186,15700191,15700256,15700259,15700262,15700265,15700271&usg=ALkJrhhTCCrdEcxeq3Hre_-7BJpdoACRMQ#expiredtokens
+https://github.com/php-curl-class/php-curl-class
+https://www.sammyk.me/access-token-handling-best-practices-in-facebook-php-sdk-v4
+https://www.geeksforgeeks.org/how-to-make-a-redirect-in-php/
+
+
+
+
+eval "$(/home/kacybun/anaconda3/bin/conda shell.YOUR_SHELL_NAME hook)" 
+
+To install conda's shell functions for easier access, first activate, then:
+
+conda init
+
+If you'd prefer that conda's base environment not be activated on startup, 
+   set the auto_activate_base parameter to false: 
+
+conda config --set auto_activate_base false
+
+Thank you for installing Anaconda3!
+
+===========================================================================
+
+Anaconda and JetBrains are working together to bring you Anaconda-powered
+environments tightly integrated in the PyCharm IDE.
+
+PyCharm for Anaconda is available at:
+https://www.anaconda.com/pycharm
+
